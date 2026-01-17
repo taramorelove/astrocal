@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//Tara Moraleda//AstroCal Plus 2026//EN
-NAME:AstroCal Plus 2026
-X-WR-CALNAME:AstroCal Plus 2026
+PRODID:-//Tara Moraleda//AstroCal 2026//EN
+NAME:AstroCal 2026
+X-WR-CALNAME:AstroCal 2026
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:20260103-full-moon-in-cancer-24135912b6@astrocal
@@ -1070,3 +1070,4 @@ DESCRIPTION:Do: Choose relationships consciously.\nDon’t: Drift into famili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
+
